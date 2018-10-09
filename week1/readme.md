@@ -19,6 +19,7 @@ void go() {
 }
 
 void setup() {
+  go();
   println(a);
 }
 
@@ -34,6 +35,7 @@ void go(int x) {
 }
 
 void setup() {
+  go(x);
   println(x);
 }
 ```
@@ -54,7 +56,7 @@ void go(Thing t) {
 void setup() {
   Thing thing = new Thing();
   thing.a = 2;
-  
+
   go(thing);
 
   println(thing.a);

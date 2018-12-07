@@ -4,7 +4,7 @@
 
 ### Basic Commands
 
-* `cd` moves folders, e.g. `cd Documents`
+* `cd` moves folder s, e.g. `cd Documents`
 * `ls` lists contents of folder 
 * `pwd` prints working directory, i.e. the folder path that we're in
 

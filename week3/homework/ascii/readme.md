@@ -4,7 +4,7 @@ Read `img.png`:
 
 ![img](https://raw.githubusercontent.com/whg/DfPaI/master/week3/homework/ascii/img.png)
 
-and print out in ASCII.
+and print out in   
 
 First try something that looks like this:
 
